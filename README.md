@@ -1,4 +1,4 @@
-# AWS IoT Core Commands Client
+# AWS IoT Device Management Commands Client
 
 * A client for testing AWS IoT Core Commands functionality.
 * Synchronizes command execution status with the cloud via MQTT messages.
