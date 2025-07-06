@@ -51,6 +51,12 @@ The client subscribes to the following 4 topics:
 
 ## Command Execution Operations
 
+Install the required MQTT gem:
+
+```bash
+gem install mqtt
+```
+
 Specify the IoT Core endpoint and certificate paths in `commands.rb` before starting the client.
 
 ```ruby
