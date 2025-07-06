@@ -1,6 +1,6 @@
 # AWS IoT Device Management Commands Client
 
-* A client for testing AWS IoT Core Commands functionality.
+* A client for testing AWS IoT Device Management Commands functionality.
 * Synchronizes command execution status with the cloud via MQTT messages.
 * This implementation is a sample for processing a single command and cannot handle multiple commands simultaneously.
 
